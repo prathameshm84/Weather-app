@@ -1,7 +1,7 @@
 # Weather-app
 Output
-![Screenshot 2024-10-09 114314](https://github.com/user-attachments/assets/cb738272-9c95-4ddb-a6ab-7b4de1c2ff1a)
-![Screenshot 2024-10-09 114229](https://github.com/user-attachments/assets/ea4dc6f7-5531-43d7-98f1-b7b4a81d1c10)
-![Screenshot 2024-10-09 114242](https://github.com/user-attachments/assets/7060833f-3b6a-4d16-a378-4264912439a5)
-![Screenshot 2024-10-09 114301](https://github.com/user-attachments/assets/3877ccfc-bb1d-4908-830a-7afc0733c8e4)
-![Screenshot 2024-10-09 114314](https://github.com/user-attachments/assets/513058d1-2252-47eb-af4d-e35e792c47fd)
+![Screenshot 2024-10-09 114216](https://github.com/user-attachments/assets/ea276cea-8e45-4257-8a08-474c52b919e4)
+![Screenshot 2024-10-09 114229](https://github.com/user-attachments/assets/e0e5e0ca-6918-496d-8dbe-068821eb4ee0)
+![Screenshot 2024-10-09 114242](https://github.com/user-attachments/assets/e94261bc-70d7-4a47-8105-611228c9059d)
+![Screenshot 2024-10-09 114301](https://github.com/user-attachments/assets/99642e84-8d76-4894-97bb-65c394475a32)
+![Screenshot 2024-10-09 114314](https://github.com/user-attachments/assets/10bbea3a-91cd-4916-a256-31f96c61bf62)
